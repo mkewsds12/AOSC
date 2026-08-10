@@ -1,16 +1,16 @@
 # PhiSat-2 · GitLink 社区镜像组织
 
-> 来源：https://github.com/PhiSat-2
+> 来源：<https://github.com/PhiSat-2>
 > 定位：在 GitLink 建立该 owner 的国内社区镜像组织/账号，镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `phisat-2`（被占用则 `phisat-2-mirror`） |
 | 组织名称 | `PhiSat-2（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 PhiSat-2 公开发布的开源项目；版权归原作者（https://github.com/PhiSat-2）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | 非官方社区镜像，仅收录 PhiSat-2 公开发布的开源项目；版权归原作者（<https://github.com/PhiSat-2>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 可留空或按项目背景填写 |
 | 选择头像 | 上传本文件夹 avatar.png（缺失则见备注） |
 | 权限 | 默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | PhiSat-2 组织入口（data-access-guide、dataset-format 等重点仓库） | [phisat2-portal.md](phisat2-portal.md) | ❓ 重点仓库均 404，无法核查 | ❓ 需人工核查 |
 | Data-Spec | [phisat2-data-spec.md](phisat2-data-spec.md) | ⚠️ 未检测到 LICENSE 文件 | ⚠️ 无 LICENSE 只收链接 |
 
@@ -30,7 +30,7 @@
 
 - 非官方社区镜像，不冒充官方/作者本人，保留 LICENSE 与版权声明
 - 无 LICENSE 只收链接不镜像
-- 来源为组织主页（无具体仓库名）：项目 md 中列出的重点仓库（data-access-guide、dataset-format）均 404，仓库名为推测。执行前先在 https://github.com/PhiSat-2 核实实际仓库清单，再逐仓库做许可证核查；核查通过前不可镜像
+- 来源为组织主页（无具体仓库名）：项目 md 中列出的重点仓库（data-access-guide、dataset-format）均 404，仓库名为推测。执行前先在 <https://github.com/PhiSat-2> 核实实际仓库清单，再逐仓库做许可证核查；核查通过前不可镜像
 
 ## 状态流转
 

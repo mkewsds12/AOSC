@@ -1,16 +1,16 @@
 # kubos · GitLink 社区镜像组织
 
-> 来源：https://github.com/kubos
+> 来源：<https://github.com/kubos>
 > 定位：在 GitLink 建立该 owner 的国内社区镜像组织/账号，镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `kubos`（被占用则 `kubos-mirror`） |
 | 组织名称 | `kubos（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 kubos 公开发布的开源项目；版权归原作者（https://github.com/kubos）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | 非官方社区镜像，仅收录 kubos 公开发布的开源项目；版权归原作者（<https://github.com/kubos>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 可留空或按项目背景填写 |
 | 选择头像 | 上传本文件夹 avatar.png |
 | 权限 | 默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | kubos/kubos-cli | kubos.md | Apache-2.0 | ✅ 可镜像 |
 | kubos/kubos（主仓库） | kubos.md | 仓库 404，无法核查 | ❓ 需人工核查 |
 | kubos/kubos-linux-build | kubos.md | 仓库 404，无法核查 | ❓ 需人工核查 |
@@ -31,7 +31,7 @@
 
 - 非官方社区镜像，不冒充官方/作者本人，保留 LICENSE 与版权声明
 - 无 LICENSE 只收链接不镜像
-- 来源为组织主页（无单一仓库）；原 kubos 组织已停止维护，kubos、kubos-linux-build 两仓库 2026-08-10 探测返回 404，需人工核查（可改用延续维护组织 https://github.com/KubOS-Preservation-Group 的对应仓库，确认许可证后再导入）
+- 来源为组织主页（无单一仓库）；原 kubos 组织已停止维护，kubos、kubos-linux-build 两仓库 2026-08-10 探测返回 404，需人工核查（可改用延续维护组织 <https://github.com/KubOS-Preservation-Group> 的对应仓库，确认许可证后再导入）
 
 ## 状态流转
 

@@ -1,6 +1,6 @@
 # WindhoverLabs · GitLink 社区镜像组织
 
-> 来源：https://github.com/WindhoverLabs
+> 来源：<https://github.com/WindhoverLabs>
 > 定位：在 GitLink 建立「WindhoverLabs」的国内社区镜像组织，批量镜像其开源仓库
 > 状态：待执行
 
@@ -18,10 +18,10 @@
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `windhoverlabs`（若提示已被占用，改用 `windhoverlabs-mirror`） |
 | 组织名称 | `WindhoverLabs（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 WindhoverLabs 公开发布的开源项目；版权归原作者与来源组织（https://github.com/WindhoverLabs）；仓库以只读镜像方式同步，每 8 小时更新一次。注意：该组织仓库暂未声明开源许可证，当前仅收录官方链接，待获得作者许可后再行镜像。 |
+| 组织描述 | 非官方社区镜像，仅收录 WindhoverLabs 公开发布的开源项目；版权归原作者与来源组织（<https://github.com/WindhoverLabs>）；仓库以只读镜像方式同步，每 8 小时更新一次。注意：该组织仓库暂未声明开源许可证，当前仅收录官方链接，待获得作者许可后再行镜像。 |
 | 所在地区 | 美国 |
 | 选择头像 | 上传本文件夹 `avatar.png`（官方头像，仅供辨识；如缺失见备注） |
 | 权限 | 「项目管理员可以添加或移除团队的访问权限」按需勾选，默认不勾 |
@@ -29,7 +29,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | airliner（cFS 派生飞行软件栈） | [windhoverlabs.md](windhoverlabs.md) | ⚠️ 无 LICENSE | ⚠️ 无 LICENSE 只收链接 |
 | xtce_generator | [windhoverlabs.md](windhoverlabs.md) | ⚠️ 无 LICENSE | ⚠️ 无 LICENSE 只收链接 |
 | auto-yamcs | [windhoverlabs.md](windhoverlabs.md) | ⚠️ 无 LICENSE | ⚠️ 无 LICENSE 只收链接 |

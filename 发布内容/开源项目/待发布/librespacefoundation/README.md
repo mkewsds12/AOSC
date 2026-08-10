@@ -1,16 +1,16 @@
 # Libre Space Foundation · GitLink 社区镜像组织
 
-> 来源：https://gitlab.com/librespacefoundation
+> 来源：<https://gitlab.com/librespacefoundation>
 > 定位：在 GitLink 建立「Libre Space Foundation」的国内社区镜像组织，批量镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `librespacefoundation`（若提示已被占用，改用 `librespacefoundation-mirror`） |
 | 组织名称 | `Libre Space Foundation（社区镜像）` |
-| 组织描述 | Libre Space Foundation（LSF，希腊）开源航天项目的非官方社区镜像，仅收录其公开发布的开源项目（UPSat、SatNOGS 等）；版权归原作者与来源组织（https://gitlab.com/librespacefoundation）；仓库以只读镜像方式同步，每 8 小时更新一次。 |
+| 组织描述 | Libre Space Foundation（LSF，希腊）开源航天项目的非官方社区镜像，仅收录其公开发布的开源项目（UPSat、SatNOGS 等）；版权归原作者与来源组织（<https://gitlab.com/librespacefoundation>）；仓库以只读镜像方式同步，每 8 小时更新一次。 |
 | 所在地区 | 希腊 |
 | 选择头像 | 上传本文件夹 `avatar.png`（官方头像，仅供辨识；如缺失见备注） |
 | 权限 | 「项目管理员可以添加或移除团队的访问权限」按需勾选，默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | UPSat | [upsat.md](upsat.md) | GPL-3.0 | ✅ 可镜像 |
 | cronos-rocket | [cronos-rocket.md](cronos-rocket.md) | GPL-3.0 | ✅ 可镜像 |
 | Libre Space Foundation（组织主页/子组汇总） | [libre-space-foundation.md](libre-space-foundation.md) | 混合：GPL-3.0 / AGPL-3.0 / LGPL-3.0；phasma、libresat-i ⚠️ 无 LICENSE | ⚠️ 有 LICENSE 仓库可镜像；phasma / libresat-i 无 LICENSE 只收链接 |

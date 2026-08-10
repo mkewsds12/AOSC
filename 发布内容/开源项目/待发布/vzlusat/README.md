@@ -1,16 +1,16 @@
 # vzlusat · GitLink 社区镜像组织
 
-> 来源：https://github.com/vzlusat
+> 来源：<https://github.com/vzlusat>
 > 定位：在 GitLink 建立该 owner 的国内社区镜像组织/账号，镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `vzlusat`（被占用则 `vzlusat-mirror`） |
 | 组织名称 | `vzlusat（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 vzlusat 公开发布的开源项目；版权归原作者（https://github.com/vzlusat）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | 非官方社区镜像，仅收录 vzlusat 公开发布的开源项目；版权归原作者（<https://github.com/vzlusat>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 捷克（可留空） |
 | 选择头像 | 上传本文件夹 avatar.png（缺失则见备注） |
 | 权限 | 默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | timepix（Timepix 辐射传感器） | [vzlusat.md](vzlusat.md) | ❓ 仓库无法访问（404） | ❓ 需人工核查 |
 | decoder（数据解码器） | [vzlusat.md](vzlusat.md) | ❓ 仓库无法访问（404） | ❓ 需人工核查 |
 | freertos（星上软件） | [vzlusat.md](vzlusat.md) | ❓ 仓库无法访问（404） | ❓ 需人工核查 |

@@ -1,16 +1,16 @@
 # alfonsogonzalez · GitLink 社区镜像组织
 
-> 来源：https://github.com/alfonsogonzalez
+> 来源：<https://github.com/alfonsogonzalez>
 > 定位：在 GitLink 建立该 owner 的国内社区镜像组织/账号，镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `alfonsogonzalez`（被占用则 `alfonsogonzalez-mirror`） |
 | 组织名称 | `alfonsogonzalez（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 alfonsogonzalez 公开发布的开源项目；版权归原作者（https://github.com/alfonsogonzalez）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | 非官方社区镜像，仅收录 alfonsogonzalez 公开发布的开源项目；版权归原作者（<https://github.com/alfonsogonzalez>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 可留空或按项目背景填写 |
 | 选择头像 | 上传本文件夹 avatar.png（缺失则见备注） |
 | 权限 | 默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | AWP | awp.md | ⚠️ 无 LICENSE | ⚠️ 无 LICENSE 只收链接 |
 
 ## 三、操作流程

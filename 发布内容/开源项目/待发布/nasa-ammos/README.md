@@ -1,16 +1,16 @@
 # NASA AMMOS（社区镜像） · GitLink 社区镜像组织
 
-> 来源：https://github.com/NASA-AMMOS
+> 来源：<https://github.com/NASA-AMMOS>
 > 定位：在 GitLink 建立「NASA AMMOS（社区镜像）」的国内社区镜像组织，批量镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `nasa-ammos`（若提示已被占用，改用 `nasa-ammos-mirror`） |
 | 组织名称 | `NASA AMMOS（社区镜像）` |
-| 组织描述 | NASA AMMOS（Advanced Multi-Mission Operations System，NASA JPL 多任务地面系统开源组织）非官方社区镜像，仅收录 NASA-AMMOS 公开发布的开源项目；版权归原作者与来源组织（https://github.com/NASA-AMMOS）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | NASA AMMOS（Advanced Multi-Mission Operations System，NASA JPL 多任务地面系统开源组织）非官方社区镜像，仅收录 NASA-AMMOS 公开发布的开源项目；版权归原作者与来源组织（<https://github.com/NASA-AMMOS>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 美国 |
 | 选择头像 | 上传本文件夹 `avatar.png`（官方头像，仅供辨识；如缺失见备注） |
 | 权限 | 「项目管理员可以添加或移除团队的访问权限」按需勾选，默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | AMMOS PlanDev | [ammos-plandev.md](ammos-plandev.md) | MIT | ✅ 可镜像 |
 | AIT-Core | [nasa-ammos.md](nasa-ammos.md) | MIT | ✅ 可镜像 |
 | AIT-GUI | [nasa-ammos.md](nasa-ammos.md) | ❓ 仓库无法访问 | ❓ 需人工核查 |

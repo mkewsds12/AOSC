@@ -8,7 +8,7 @@
 ## 条目清单与处置建议
 
 | 文件 | 来源类型 | 处置建议 |
-|------|---------|---------|
+| :--- | :--- | :--- |
 | [github-topic-cubesat.md](github-topic-cubesat.md) | GitHub topic 聚合页（cubesat 等主题入口） | 不镜像本页；定期人工浏览主题页，筛出星标高、维护活跃的具体仓库，逐个核查许可证后按标准流程建 owner 组织镜像 |
 | [cansat.md](cansat.md) | GitHub topic 聚合页（cansat 主题，167+ 仓库） | 同上；可优先筛选 CatSat、POA-OBC、OSA 等文档全的项目逐个核查后收录 |
 | [ccsds-标准库汇总.md](ccsds-标准库汇总.md) | GitHub topic 聚合页（ccsds 主题） | 不镜像本页；表中重点仓库（CCSDSPy、ccsds-spacepacket 等）逐个核查 LICENSE 后按标准流程收录，上架「测控通信」分类 |

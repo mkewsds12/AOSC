@@ -1,16 +1,16 @@
 # SPEL-UChile（社区镜像） · GitLink 社区镜像组织
 
-> 来源：https://github.com/spel-uchile
+> 来源：<https://github.com/spel-uchile>
 > 定位：在 GitLink 建立「SPEL-UChile（社区镜像）」的国内社区镜像组织，批量镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `spel-uchile`（若提示已被占用，改用 `spel-uchile-mirror`） |
 | 组织名称 | `SPEL-UChile（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 SPEL 智利大学太空实验室（SPEL-UChile）公开发布的开源项目；版权归原作者与来源组织（https://github.com/spel-uchile）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | 非官方社区镜像，仅收录 SPEL 智利大学太空实验室（SPEL-UChile）公开发布的开源项目；版权归原作者与来源组织（<https://github.com/spel-uchile>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 智利 |
 | 选择头像 | 上传本文件夹 `avatar.png`（官方头像，仅供辨识；如缺失见备注） |
 | 权限 | 「项目管理员可以添加或移除团队的访问权限」按需勾选，默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | SUCHAI | [suchai.md](suchai.md) | LGPL-3.0 | ✅ 可镜像 |
 | SUCHAI-Flight-Software | [suchai-flight-software.md](suchai-flight-software.md) | GPL-3.0 | ✅ 可镜像 |
 | SPEL Star Tracker (SOST) | [sost-star-tracker.md](sost-star-tracker.md) | GPL-3.0 | ✅ 可镜像 |

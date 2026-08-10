@@ -1,16 +1,16 @@
 # dernasherbrezon · GitLink 社区镜像组织
 
-> 来源：https://github.com/dernasherbrezon
+> 来源：<https://github.com/dernasherbrezon>
 > 定位：在 GitLink 建立 dernasherbrezon 的国内社区镜像组织/账号，镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `dernasherbrezon`（被占用则 `dernasherbrezon-mirror`） |
 | 组织名称 | `dernasherbrezon（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 dernasherbrezon 公开发布的开源项目；版权归原作者（https://github.com/dernasherbrezon）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | 非官方社区镜像，仅收录 dernasherbrezon 公开发布的开源项目；版权归原作者（<https://github.com/dernasherbrezon>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 可留空 |
 | 选择头像 | 上传本文件夹 avatar.png（缺失则见备注） |
 | 权限 | 默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | r2cloud | [r2cloud.md](r2cloud.md) | Apache-2.0 | ✅ 可镜像 |
 
 ## 三、操作流程

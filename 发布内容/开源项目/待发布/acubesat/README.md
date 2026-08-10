@@ -1,16 +1,16 @@
 # AcubeSAT 亚里士多德大学 · GitLink 社区镜像组织
 
-> 来源：https://gitlab.com/acubesat（另有 GitHub https://github.com/AcubeSAT）
+> 来源：<https://gitlab.com/acubesat>（另有 GitHub <https://github.com/AcubeSAT>）
 > 定位：在 GitLink 建立「AcubeSAT」的国内社区镜像组织，批量镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `acubesat`（若提示已被占用，改用 `acubesat-mirror`） |
 | 组织名称 | `AcubeSAT（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 AcubeSAT（希腊亚里士多德大学 SpaceDot 团队 3U 立方星项目）公开发布的开源项目；版权归原作者与来源组织（https://gitlab.com/acubesat）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | 非官方社区镜像，仅收录 AcubeSAT（希腊亚里士多德大学 SpaceDot 团队 3U 立方星项目）公开发布的开源项目；版权归原作者与来源组织（<https://gitlab.com/acubesat>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 希腊 |
 | 选择头像 | 上传本文件夹 `avatar.png`（官方头像，仅供辨识；如缺失见备注） |
 | 权限 | 「项目管理员可以添加或移除团队的访问权限」按需勾选，默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | acubesat/adcs/adcs-software/embedded-software（ADCS 后继仓） | [acubesat.md](acubesat.md) | MIT（LICENSE，master） | ✅ 可镜像 |
 | acubesat/obc/cross-platform-software（OBC 后继仓） | [acubesat.md](acubesat.md) | MIT（LICENSE，main） | ✅ 可镜像 |
 | acubesat/comms/software/comms-sw（COMMS 后继仓） | [acubesat.md](acubesat.md) | ⚠️ 未检测到 LICENSE 文件 | ⚠️ 无 LICENSE 只收链接 |

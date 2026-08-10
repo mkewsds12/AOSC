@@ -1,16 +1,16 @@
 # AeroRust · GitLink 社区镜像组织
 
-> 来源：https://github.com/AeroRust
+> 来源：<https://github.com/AeroRust>
 > 定位：在 GitLink 建立该 owner 的国内社区镜像组织/账号，镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `aerorust`（被占用则 `aerorust-mirror`） |
 | 组织名称 | `AeroRust（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 AeroRust 公开发布的开源项目；版权归原作者（https://github.com/AeroRust）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | 非官方社区镜像，仅收录 AeroRust 公开发布的开源项目；版权归原作者（<https://github.com/AeroRust>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 可留空或按项目背景填写 |
 | 选择头像 | 上传本文件夹 avatar.png（缺失则见备注） |
 | 权限 | 默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | AeroRust 组织（adcs / navigation / astrodynamics） | aerorust.md | ❓ 三个重点仓库均 404 | ❓ 需人工核查 |
 | nanosat-workshop | nanosat-workshop.md | Apache-2.0 / MIT 双许可 | ✅ 可镜像 |
 | splice | splice.md | GPL-3.0 | ✅ 可镜像 |
@@ -31,7 +31,7 @@
 
 - 非官方社区镜像，不冒充官方/作者本人，保留 LICENSE 与版权声明
 - 无 LICENSE 只收链接不镜像
-- 来源是组织主页（无具体仓库名）；aerorust.md 中所列三个重点仓库（adcs/navigation/astrodynamics）当前均无法访问（404，可能改名/删除/私有），需人工登录 https://github.com/AeroRust 核对实际仓库清单并逐个核查许可证，未确认前不得镜像任何代码
+- 来源是组织主页（无具体仓库名）；aerorust.md 中所列三个重点仓库（adcs/navigation/astrodynamics）当前均无法访问（404，可能改名/删除/私有），需人工登录 <https://github.com/AeroRust> 核对实际仓库清单并逐个核查许可证，未确认前不得镜像任何代码
 - splice 为 GPL-3.0：衍生/分发需开源同等授权；镜像只读展示合规
 
 ## 状态流转

@@ -1,16 +1,16 @@
 # jaxa · GitLink 社区镜像组织
 
-> 来源：https://github.com/jaxa
+> 来源：<https://github.com/jaxa>
 > 定位：在 GitLink 建立该 owner 的国内社区镜像组织/账号，镜像其开源仓库
 > 状态：待执行
 
 ## 一、新建组织填写指南（GitLink → 新建组织）
 
 | 表单项 | 填写内容 |
-|--------|---------|
+| :--- | :--- |
 | 组织账号 | `jaxa`（被占用则 `jaxa-mirror`） |
 | 组织名称 | `jaxa（社区镜像）` |
-| 组织描述 | 非官方社区镜像，仅收录 jaxa（日本宇宙航空研究开发机构 JAXA）公开发布的开源项目；版权归原作者（https://github.com/jaxa）；仓库以只读镜像方式同步，每 8 小时更新一次 |
+| 组织描述 | 非官方社区镜像，仅收录 jaxa（日本宇宙航空研究开发机构 JAXA）公开发布的开源项目；版权归原作者（<https://github.com/jaxa>）；仓库以只读镜像方式同步，每 8 小时更新一次 |
 | 所在地区 | 日本 |
 | 选择头像 | 上传本文件夹 avatar.png（缺失则见备注） |
 | 权限 | 默认不勾 |
@@ -18,7 +18,7 @@
 ## 二、仓库镜像清单
 
 | 仓库/项目 | 项目 md | 许可证 | 镜像可行性 |
-|-----------|---------|--------|-----------|
+| :--- | :--- | :--- | :--- |
 | racs2_bridge（Space ROS / RACS2） | [space-ros.md](space-ros.md) | Apache-2.0 | ✅ 可镜像（参考仓库 space_ros_turtlebot3_demo、space_robotics_bench 未单独核查，如需镜像请逐仓库核查） |
 | open-set（JAXA open-set） | [jaxa-open-set.md](jaxa-open-set.md) | Apache-2.0 | ✅ 可镜像 |
 
