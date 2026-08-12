@@ -28,6 +28,7 @@ AOSC/
 ├── .agents/skills/              # 项目级 agent skills（AI 辅助维护）
 │   ├── aosc-maintenance/            # AOSC 维护总流程（结构/流程/规范）
 │   ├── aosc-space-classroom/        # 航天开源小课堂生成（带配图清单）
+│   ├── aosc-news-dispatch/          # 新闻动态推文整理（一段话+图+来源）
 │   ├── find-skills/                 # skill 发现与安装
 │   └── skill-creator/               # skill 创建/评测
 ├── 管理指南/                    # 后台维护操作手册（核心文档）
@@ -158,4 +159,4 @@ AOSC/
 4. 分类已定稿（11 类），有项目归属后不轻易改名/删除
 5. 每个组织单独建调研文件，组织描述按统一模板
 6. 发布内容先在 `待发布/` 再转 `已发布/`，保持目录整洁
-7. 维护可用 `.agents/skills/` 下的 AI skill 辅助：说"写篇航天小课堂讲讲 XX"可自动生成带配图的科普文章（aosc-space-classroom），维护流程/格式规范见 aosc-maintenance
+7. 维护可用 `.agents/skills/` 下的 AI skill 辅助：说"写篇航天小课堂讲讲 XX"可自动生成带配图的科普文章（aosc-space-classroom）；说"帮我看看有哪些行业新闻整理成推文"可自动搜集卫星/火箭/下游产业新闻并整理成一段话+图+来源的推文（aosc-news-dispatch）；维护流程/格式规范见 aosc-maintenance
